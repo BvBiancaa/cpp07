@@ -28,9 +28,9 @@ The eighth module of the C++ piscine.
 
 <h4>Exercise 00: Start with a few functions</h4>
 The exercise requires implementing function templates for swap, min, and max.
-swap() swaps the values of two given arguments.
-min() compares two values and returns the smaller one. If the two values are equal, it returns the second one.
-max() compares two values and returns the greater one. If the two values are equal, it returns the second one.
+Swap() swaps the values of two given arguments.
+Min() compares two values and returns the smaller one. If the two values are equal, it returns the second one.
+Max() compares two values and returns the greater one. If the two values are equal, it returns the second one.
 
 <h4>Exercise 01: Iter</h4>
 The exercise requires implementing a function template called iter that takes three parameters: the address of an array, the length of the array, and a function to be called on each element of the array.
